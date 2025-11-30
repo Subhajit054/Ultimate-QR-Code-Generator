@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subhajit054.github.io/Ultimate-QR-Code-Generator/sitemap.xml
